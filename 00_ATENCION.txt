@@ -1,0 +1,10 @@
+
+# Módulos que tengo que instalar a mano:
+
+pip install tensorflow
+pip install future
+pip install networkx
+pip install py4j
+
+
+
